@@ -1,0 +1,10 @@
+C:\dev\Uklon\Net\Aggregator\DataHandler\bin\Debug\DataHandler.dll
+C:\dev\Uklon\Net\Aggregator\DataHandler\bin\Debug\DataHandler.pdb
+C:\dev\Uklon\Net\Aggregator\DataHandler\bin\Debug\Newtonsoft.Json.dll
+C:\dev\Uklon\Net\Aggregator\DataHandler\bin\Debug\Newtonsoft.Json.pdb
+C:\dev\Uklon\Net\Aggregator\DataHandler\bin\Debug\Newtonsoft.Json.xml
+C:\dev\Uklon\Net\Aggregator\DataHandler\obj\Debug\DataHandler.csprojAssemblyReference.cache
+C:\dev\Uklon\Net\Aggregator\DataHandler\obj\Debug\DataHandler.csproj.CoreCompileInputs.cache
+C:\dev\Uklon\Net\Aggregator\DataHandler\obj\Debug\DataHandler.csproj.CopyComplete
+C:\dev\Uklon\Net\Aggregator\DataHandler\obj\Debug\DataHandler.dll
+C:\dev\Uklon\Net\Aggregator\DataHandler\obj\Debug\DataHandler.pdb

@@ -1,0 +1,13 @@
+C:\dev\Uklon\Net\Aggregator\EntryPoint\bin\Debug\EntryPoint.exe.config
+C:\dev\Uklon\Net\Aggregator\EntryPoint\bin\Debug\EntryPoint.exe
+C:\dev\Uklon\Net\Aggregator\EntryPoint\bin\Debug\EntryPoint.pdb
+C:\dev\Uklon\Net\Aggregator\EntryPoint\obj\Debug\EntryPoint.csprojAssemblyReference.cache
+C:\dev\Uklon\Net\Aggregator\EntryPoint\obj\Debug\EntryPoint.csproj.CoreCompileInputs.cache
+C:\dev\Uklon\Net\Aggregator\EntryPoint\obj\Debug\EntryPoint.exe
+C:\dev\Uklon\Net\Aggregator\EntryPoint\obj\Debug\EntryPoint.pdb
+C:\dev\Uklon\Net\Aggregator\EntryPoint\bin\Debug\DataHandler.dll
+C:\dev\Uklon\Net\Aggregator\EntryPoint\bin\Debug\Newtonsoft.Json.dll
+C:\dev\Uklon\Net\Aggregator\EntryPoint\bin\Debug\DataHandler.pdb
+C:\dev\Uklon\Net\Aggregator\EntryPoint\bin\Debug\Newtonsoft.Json.pdb
+C:\dev\Uklon\Net\Aggregator\EntryPoint\bin\Debug\Newtonsoft.Json.xml
+C:\dev\Uklon\Net\Aggregator\EntryPoint\obj\Debug\EntryPoint.csproj.CopyComplete
